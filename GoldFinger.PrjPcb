@@ -133,6 +133,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Job2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for GoldFinger\Design Rule Check - Main.html
 DItemRevisionGUID=
@@ -190,146 +207,158 @@ DocumentPath=Project Outputs for GoldFinger\Main.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for GoldFinger\Main.GM
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM1
+DocumentPath=Project Outputs for GoldFinger\Main.GM
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for GoldFinger\Main.GM1
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM2
+DocumentPath=Project Outputs for GoldFinger\Main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for GoldFinger\Main.GM2
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM3
+DocumentPath=Project Outputs for GoldFinger\Main.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for GoldFinger\Main.GM3
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM5
+DocumentPath=Project Outputs for GoldFinger\Main.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for GoldFinger\Main.GM5
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM13
+DocumentPath=Project Outputs for GoldFinger\Main.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for GoldFinger\Main.GM13
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM15
+DocumentPath=Project Outputs for GoldFinger\Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for GoldFinger\Main.GM15
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM20
+DocumentPath=Project Outputs for GoldFinger\Main.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for GoldFinger\Main.GM20
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM29
+DocumentPath=Project Outputs for GoldFinger\Main.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for GoldFinger\Main.GM29
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GPB
+DocumentPath=Project Outputs for GoldFinger\Main.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for GoldFinger\Main.GPB
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GPT
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for GoldFinger\Main.GPT
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTL
+DocumentPath=Project Outputs for GoldFinger\Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for GoldFinger\Main.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTO
+DocumentPath=Project Outputs for GoldFinger\Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for GoldFinger\Main.GTO
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTP
+DocumentPath=Project Outputs for GoldFinger\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for GoldFinger\Main.GTP
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTS
+DocumentPath=Project Outputs for GoldFinger\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for GoldFinger\Main.GTS
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Main.LDP
+DocumentPath=Project Outputs for GoldFinger\Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\Main.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for GoldFinger\Main.REP
+DocumentPath=Project Outputs for GoldFinger\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Main.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\Main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Main.csv
+DocumentPath=Project Outputs for Free Documents\Gerber\Main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
+DocumentPath=Project Outputs for GoldFinger\Main.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Free Documents\NC Drill\Main.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Main.csv
+DItemRevisionGUID=
+
+[GeneratedDocument53]
 DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Main.txt
 DItemRevisionGUID=
 
