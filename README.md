@@ -1,2 +1,2 @@
 Hi...
-![Uploading 07.jpg…]()
+![](images/1710188114559.jpeg)
