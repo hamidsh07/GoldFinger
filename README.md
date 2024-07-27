@@ -1,2 +1,2 @@
 Hi...
-![Uploading 07.jpg…]()
+[![Uploading 07.jpg…]()](https://github.com/hamidsh07/GoldFinger/blob/main/Image/1710188114559.jpeg)
