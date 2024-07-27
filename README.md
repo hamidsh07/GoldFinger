@@ -1,3 +1,3 @@
 Hi...
-![Alt text](images/1710188114559.jpeg)
+![Alt text]([images/1710188114559.jpeg](https://github.com/hamidsh07/GoldFinger/blob/main/Image/1710188114559.jpeg)
 [![Uploading 07.jpg…]()](https://github.com/hamidsh07/GoldFinger/blob/main/Image/1710188114559.jpeg)
